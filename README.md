@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ksharma.cf](https://ksharma.cf)
 
-- 📝 I regularly write articles on [https](https)
-
 - 💬 Ask me about **Python & PHP**
 
 - 📫 How to reach me **krishnasharma.active@gmail.com**
